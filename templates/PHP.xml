@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="pre" value="echo ('&lt;pre&gt;');&#10;print_r();&#10;echo ('&lt;/pre&gt;');" description="echo pre and print_r" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
