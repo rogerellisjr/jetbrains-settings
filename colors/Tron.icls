@@ -934,10 +934,21 @@
     <option name="JS.ATTRIBUTE">
       <value />
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f552ff" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="2f62ff" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
