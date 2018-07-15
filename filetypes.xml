@@ -8,6 +8,7 @@
       <mapping pattern="1422065550439" type="PLAIN_TEXT" />
       <mapping pattern="524320043453" type="PLAIN_TEXT" />
       <mapping pattern="367328562238" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
