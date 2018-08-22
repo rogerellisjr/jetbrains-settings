@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="805827778557" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="1314444655057" type="PLAIN_TEXT" />
       <mapping pattern="1119656998845" type="PLAIN_TEXT" />
