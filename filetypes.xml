@@ -1,24 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="805827778557" type="PLAIN_TEXT" />
+      <mapping pattern="816384346189" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="1314444655057" type="PLAIN_TEXT" />
       <mapping pattern="1119656998845" type="PLAIN_TEXT" />
+      <mapping pattern="1171132738516" type="PLAIN_TEXT" />
       <mapping pattern="650827415714" type="PLAIN_TEXT" />
       <mapping pattern="1479984937719" type="PLAIN_TEXT" />
       <mapping pattern="1249133983990" type="PLAIN_TEXT" />
+      <mapping pattern="825782121814" type="PLAIN_TEXT" />
       <mapping pattern="1268122713411" type="PLAIN_TEXT" />
-      <mapping pattern="1171132738516" type="PLAIN_TEXT" />
+      <mapping pattern="805827778557" type="PLAIN_TEXT" />
       <mapping pattern="1339816750550" type="PLAIN_TEXT" />
-      <mapping pattern="367328562238" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="1268242209482" type="PLAIN_TEXT" />
       <mapping pattern="1364146103878" type="PLAIN_TEXT" />
       <mapping pattern="1422065550439" type="PLAIN_TEXT" />
       <mapping pattern="524320043453" type="PLAIN_TEXT" />
       <mapping pattern="maintenance_flag" type="PLAIN_TEXT" />
-      <mapping pattern="816384346189" type="PLAIN_TEXT" />
+      <mapping pattern="367328562238" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
