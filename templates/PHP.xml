@@ -1,0 +1,22 @@
+<templateSet group="PHP">
+  <template name="pre" value="echo ('&lt;pre&gt;');&#10;print_r();&#10;echo ('&lt;/pre&gt;');" description="echo pre and print_r" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="conlog" value="if(!function_exists('debug_to_console')){&#10;    function debug_to_console( $data ) {&#10;        $output = $data;&#10;        if ( is_array( $output ) )&#10;            $output = implode( ',', $output);&#10;&#10;        echo &quot;&lt;script&gt;console.log( 'Debug Objects: &quot; . $output . &quot;' );&lt;/script&gt;&quot;;&#10;    }&#10;}" description="console log for php" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="echopr" value="echo '&lt;pre&gt;';&#10;print_r();&#10;echo '&lt;/pre&gt;';" description="echo out pre elements with a print out of my var" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ready" value="    $j = jQuery.noConflict();&#10;    $j(function(){&#10;        &#10;    });" description="$j no conflict doc ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -35,7 +35,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="161a1f" />
+    <option name="SELECTION_BACKGROUND" value="0" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="303134" />
     <option name="WHITESPACES" value="505050" />
@@ -258,6 +258,11 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="4fffc3" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="6ee2ff" />
@@ -273,6 +278,11 @@
         <option name="FOREGROUND" value="6ee2ff" />
       </value>
     </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="4fffc3" />
+      </value>
+    </option>
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -286,7 +296,7 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f552ff" />
       </value>
     </option>
     <option name="CSS.NUMBER">
@@ -296,12 +306,17 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="338171" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="68ffb5" />
       </value>
     </option>
     <option name="CSS.STRING">
@@ -311,7 +326,7 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="748aa6" />
+        <option name="FOREGROUND" value="4bd6c9" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -735,20 +750,20 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="858585" />
-        <option name="BACKGROUND" value="10101" />
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="b0b0b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="979797" />
-        <option name="BACKGROUND" value="d0d0d" />
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="22262d" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="5b5b5b" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="606060" />
+        <option name="BACKGROUND" value="f0f0f" />
       </value>
     </option>
     <option name="INSPECTION_MULTIPLE_RESOLVE_WARNING_ID">
@@ -919,10 +934,21 @@
     <option name="JS.ATTRIBUTE">
       <value />
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f552ff" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="2f62ff" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1084,7 +1110,8 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d0fff5" />
+        <option name="FOREGROUND" value="52fff3" />
+        <option name="BACKGROUND" value="f1111" />
       </value>
     </option>
     <option name="PHP_TAG">

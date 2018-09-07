@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFindToolWindow" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+</keymap>
