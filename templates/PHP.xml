@@ -14,4 +14,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="ready" value="    $j = jQuery.noConflict();&#10;    $j(function(){&#10;        &#10;    });" description="$j no conflict doc ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
