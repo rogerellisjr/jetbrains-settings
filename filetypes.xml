@@ -9,6 +9,7 @@
       <mapping pattern="650827415714" type="PLAIN_TEXT" />
       <mapping pattern="1364146103878" type="PLAIN_TEXT" />
       <mapping pattern="1479984937719" type="PLAIN_TEXT" />
+      <mapping pattern="," type="PLAIN_TEXT" />
       <mapping pattern="1249133983990" type="PLAIN_TEXT" />
       <mapping pattern="825782121814" type="PLAIN_TEXT" />
       <mapping pattern="1268122713411" type="PLAIN_TEXT" />
